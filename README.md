@@ -15,7 +15,7 @@
 
 ## 如何使用
 1. **訪問遊戲**：  
-   - 點擊 [這裡](https://你的用戶名.github.io/tri-language-word-master) 進入遊戲。  
+   - 點擊 [這裡](https://littlebit0632.github.io/github.io-tri-language-word-master) 進入遊戲。  
 
 2. **選擇語言**：  
    - 在主界面選擇日語、德語或英語，開始學習字母與發音。  
@@ -36,4 +36,4 @@
 ### 本地運行
 1. 克隆倉庫：  
    ```bash
-   git clone https://github.com/你的用戶名/tri-language-word-master.git
+   git clone https://github.com/littlebit0632/github.io-tri-language-word-master.git
